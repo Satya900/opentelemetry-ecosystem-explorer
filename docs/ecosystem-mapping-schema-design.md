@@ -63,7 +63,6 @@ requirement for watcher output generally; this phase is where the specific sort 
 array field gets chosen. See [Content-Addressed Storage](./content-addressed-storage.md) for how the
 hash is used downstream.
 
-
 ## Worked examples
 
 - [JavaScript metadata audit](../projects/9-javascript-instrumentation/01-metadata-audit.md) — the
